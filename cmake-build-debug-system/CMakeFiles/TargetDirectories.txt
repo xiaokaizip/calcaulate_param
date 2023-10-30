@@ -1,0 +1,3 @@
+/home/kade/CLionProjects/c/cmake-build-debug-system/CMakeFiles/loop_control.dir
+/home/kade/CLionProjects/c/cmake-build-debug-system/CMakeFiles/edit_cache.dir
+/home/kade/CLionProjects/c/cmake-build-debug-system/CMakeFiles/rebuild_cache.dir
